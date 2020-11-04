@@ -1,0 +1,17 @@
+{
+  "name": "pro-network",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "NODEJS",
+    "EXPRESS",
+    "REACT",
+    "MONGODB"
+  ],
+  "author": "Nicodemus Ngufuli",
+  "license": "ISC"
+}
