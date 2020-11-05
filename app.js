@@ -8,6 +8,9 @@ const app = express();
 //connecting to database
 connectDB();
 
+//initializing middlewares
+app.use(express.json({extended: false}));
+
 app.get('/',(req, res) => res.send('hello world!'))
 
 //routes
